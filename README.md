@@ -1,3 +1,5 @@
+[![R-CMD-check](https://github.com/cmsnut/tcmmind/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/cmsnut/tcmmind/actions/workflows/R-CMD-check.yaml)
+[![Codecov](https://codecov.io/gh/cmsnut/tcmmind/branch/main/graph/badge.svg)](https://app.codecov.io/gh/cmsnut/tcmmind)
 
 # tcmmind
 
